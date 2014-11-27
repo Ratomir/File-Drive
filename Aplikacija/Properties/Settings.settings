@@ -1,0 +1,51 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Aplikacija.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="menuStripBoja" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">MenuHighlight</Value>
+    </Setting>
+    <Setting Name="BojaPozadine" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">SkyBlue</Value>
+    </Setting>
+    <Setting Name="BojaStatusMenija" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="TabSkeniranje" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">MenuHighlight</Value>
+    </Setting>
+    <Setting Name="TabListaSkeniranja" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">MenuHighlight</Value>
+    </Setting>
+    <Setting Name="TabOtvoriListu" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">MenuHighlight</Value>
+    </Setting>
+    <Setting Name="TabMuzickiPlayer" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">MenuHighlight</Value>
+    </Setting>
+    <Setting Name="TabPdfCitac" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">MenuHighlight</Value>
+    </Setting>
+    <Setting Name="TabWebPretrazivac" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">MenuHighlight</Value>
+    </Setting>
+    <Setting Name="TabInformacije" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">MenuHighlight</Value>
+    </Setting>
+    <Setting Name="adresaListe" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="adresaPdfFajl" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="nazivFoldera" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="folderPostoji" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="adresaZaPretrazivanje" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
